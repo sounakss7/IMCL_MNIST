@@ -76,9 +76,6 @@ Ensure you have the following installed:
 - Achieves high accuracy on the MNIST dataset.
 - Evaluated using various metrics including accuracy, precision, and confusion matrix visualization.
 
-## 📸 Sample Output
-
-![MNIST Prediction Example](https://github.com/sounakss7/IMCL_MNIST/blob/main/sample_output.png)
 
 ## 📜 License
 
